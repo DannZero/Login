@@ -6,9 +6,22 @@
     <string name="prompt_number">Numero de cuenta</string>
     <string name="prompt_email">Correo electrónico</string>
     <string name="action_sign_in">Ingresar</string>
-    <string name="action_sign_in_short">Ingresar</string>
     <string name="welcome">"Bienvenido"</string>
     <string name="invalid_date">Fecha no valida</string>
     <string name="invalid_number">Numero de cuenta debe tener 10 digitos</string>
     <string name="login_failed">"No se pudo ingresar"</string>
+    <string name="your_age_is">"Tu edad es:"</string>
+    <string name="your_sign">"Tu signo zodiacal chino:"</string>
+    <string name="monkey">"Mono"</string>
+    <string name="rooster">"Gallo"</string>
+    <string name="dog">"Perro"</string>
+    <string name="pig">"Cerdo"</string>
+    <string name="rat">"Rata"</string>
+    <string name="ox">"Buey"</string>
+    <string name="tiger">"Tigre"</string>
+    <string name="rabbit">"Rabbit"</string>
+    <string name="dragon">"Dragón"</string>
+    <string name="serpent">"Serpiente"</string>
+    <string name="horse">"Caballo"</string>
+    <string name="goat">"Cabra"</string>
 </resources>

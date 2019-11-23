@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="action_sign_in">Login</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="invalid_number">Account number must have 10 digits</string>
+    <string name="login_failed">Login failed</string>
+    <string name="prompt_date">Birthdate</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_number">Account number</string>
+    <string name="welcome">Welcome</string>
+    <string name="dog">Dog</string>
+    <string name="dragon">Dragon</string>
+    <string name="goat">Goat</string>
+    <string name="horse">Horse</string>
+    <string name="monkey">Monkey</string>
+    <string name="ox">Ox</string>
+    <string name="pig">Pig</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="rat">Rat</string>
+    <string name="rooster">Rooster</string>
+    <string name="serpent">Snake</string>
+    <string name="tiger">Tiger</string>
+    <string name="your_sign">Your chinese sign:</string>
+    <string name="your_age_is">Your age:</string>
+</resources>
